@@ -5,10 +5,13 @@ pages, recordings, videos and YouTube links into structured notes where every
 bullet cites the exact source chunk it came from — so you can verify, edit and
 reuse notes instead of trusting a black box.
 
+**Featured on Product Hunt:** [Lynote on Product Hunt](https://www.producthunt.com/products/lynote-ai?launch=lynote-3)
+
 [![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Tests](https://img.shields.io/badge/tests-58%20passed-brightgreen)](tests/)
 [![Coverage](https://img.shields.io/badge/coverage-92%25-green)](tests/)
+[![Product Hunt](https://img.shields.io/badge/Product_Hunt-Lynote-orange?logo=producthunt)](https://www.producthunt.com/products/lynote-ai?launch=lynote-3)
 
 ```bash
 pip install -e .
@@ -177,7 +180,8 @@ few are bilingual by design.
 - [x] Offline extractive provider + OpenAI-compatible provider
 - [ ] Embedding retrieval (`sqlite-vec`) with hybrid scoring
 - [ ] Flashcard quality pass (cloze cards, better Anki metadata)
-- [ ] Web UI (FastAPI + minimal frontend) and HF Space demo
+- [x] HF Space demo — https://huggingface.co/spaces/Lynote/lynote-notes
+- [ ] Web UI (FastAPI + minimal frontend)
 - [ ] Optional AI-content flags on sources (via Lynote's open detector)
 
 ## Development
@@ -190,4 +194,4 @@ pytest
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Built by [Lynote](https://lynote.ai).
+MIT — see [LICENSE](LICENSE). Built by [Lynote](https://lynote.ai) · [Product Hunt](https://www.producthunt.com/products/lynote-ai?launch=lynote-3) · [HF Space](https://huggingface.co/spaces/Lynote/lynote-notes)

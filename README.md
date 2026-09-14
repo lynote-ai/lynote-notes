@@ -180,7 +180,7 @@ few are bilingual by design.
 - [x] Offline extractive provider + OpenAI-compatible provider
 - [ ] Embedding retrieval (`sqlite-vec`) with hybrid scoring
 - [ ] Flashcard quality pass (cloze cards, better Anki metadata)
-- [x] HF Space demo — https://huggingface.co/spaces/Lynote/lynote-notes
+- [x] HF Space demo — https://huggingface.co/spaces/Lynote/ai-notes
 - [ ] Web UI (FastAPI + minimal frontend)
 - [ ] Optional AI-content flags on sources (via Lynote's open detector)
 
@@ -194,4 +194,4 @@ pytest
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Built by [Lynote](https://lynote.ai) · [Product Hunt](https://www.producthunt.com/products/lynote-ai?launch=lynote-3) · [HF Space](https://huggingface.co/spaces/Lynote/lynote-notes)
+MIT — see [LICENSE](LICENSE). Built by [Lynote](https://lynote.ai) · [Product Hunt](https://www.producthunt.com/products/lynote-ai?launch=lynote-3) · [HF Space](https://huggingface.co/spaces/Lynote/ai-notes)

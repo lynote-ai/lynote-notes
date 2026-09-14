@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Question or idea
+    url: https://github.com/lynote-ai/lynote-notes/discussions
+    about: Ask questions, share workflows and discuss ideas in GitHub Discussions.
+  - name: Security report
+    url: https://github.com/lynote-ai/lynote-notes/security/advisories/new
+    about: Report security issues privately (do not open a public issue).
